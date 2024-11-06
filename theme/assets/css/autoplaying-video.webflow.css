@@ -295,3 +295,7 @@ blockquote {
 }
 
 
+
+.udesly-banner {
+   transform: translate(0px, 88px) !important;
+}
