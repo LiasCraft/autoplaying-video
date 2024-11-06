@@ -9,5 +9,7 @@
       1080,
       1600
     ]
-  }
+  },
+  "favicon": "/assets/images/magna-favicon.png",
+  "apple_touch_icon": "/assets/images/magna-webclip.png"
 }
